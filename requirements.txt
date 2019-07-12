@@ -1,1 +1,3 @@
-This is the mandatory file
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
